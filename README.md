@@ -23,7 +23,7 @@ It implements the following best practices:
 ![Icon](./.bluemix/toolchain.png)
 
 ### To get started, click this button:
-[![Deploy To Bluemix](https://console.bluemix.net/devops/graphics/create_toolchain_button.png)](https://console.bluemix.net/devops/setup/deploy/?repository=https%3A//github.com/open-toolchain/secure-helm-toolchain)
+[![Deploy To Bluemix](https://console.bluemix.net/devops/graphics/create_toolchain_button.png)](https://console.bluemix.net/devops/setup/deploy/?repository=https%3A//github.com/hmagph/secure-helm-toolchain)
 
 ---
 ### Learn more 
